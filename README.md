@@ -24,6 +24,7 @@ How to use it
 ---
 
 It’s very simple. Create your Left ViewController (.h .m) files with Storyboard/nib
+Make KYCDraggableViewController as your Left ViewController's parent (e.g. to see the example project)
 For Storyboard Id: set this 'LeftVCStoryboard' (You can change this)
 The examples below demonstrate how to customize the appearance and value displayed.
 
